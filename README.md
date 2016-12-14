@@ -1,2 +1,3 @@
 # Responsive_Portfolio
-HW2
+
+Sample Portfolio page using Media queries
